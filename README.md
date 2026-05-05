@@ -6,10 +6,10 @@ I am an aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI, with 
 ---
 
 ## 🚀 Projects
-- 📊 Pizza Sales Analysis (SQL) (https://github.com/vidhi-nagora/pizza-sales-sql-project)
-- 📈 Coffee Shop Sales Dashboard (Excel) (https://github.com/vidhi-nagora/Coffee-Shop-Sales-Analysis)
-- 📉 E-commerce Sales Analysis (Power BI) (https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis)
-- 🔍 Customer Behavior Analysis (Python + SQL + Power BI) (https://github.com/vidhi-nagora/Customer-Shopping-Behavior-Analysis)
+- 📊 Pizza Sales Analysis (SQL) 
+- 📈 Coffee Shop Sales Dashboard (Excel)
+- 📉 E-commerce Sales Analysis (Power BI)
+- 🔍 Customer Behavior Analysis (Python + SQL + Power BI)
 
 ---
 
