@@ -14,11 +14,10 @@ I am an aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI, with 
 ---
 
 ## 🛠️ Skills
-- Excel, SQL, Python, Power BI  
-- Data Cleaning & EDA  
+- Excel | SQL | Python | Power BI  
+- Data Cleaning | EDA  
 - Data Visualization  
-- SEO
-- Social Media Marketing
+- SEO | Social Media Marketing
 
 ---
 
