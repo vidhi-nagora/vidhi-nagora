@@ -17,7 +17,8 @@ I am an aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI, with 
 - Excel, SQL, Python, Power BI  
 - Data Cleaning & EDA  
 - Data Visualization  
-- Marketing Analytics (SEO, CTR, CPC, ROI)
+- SEO
+- Social Media Marketing
 
 ---
 
