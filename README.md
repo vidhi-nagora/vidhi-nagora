@@ -13,6 +13,13 @@ I am an aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI, with 
 
 ---
 
+## 📊 What I’m Currently Working On
+- Building end-to-end data analytics projects  
+- Improving SQL and Python for data analysis  
+- Learning advanced Power BI dashboards
+
+---
+
 ## 🛠️ Skills
 - Excel | SQL | Python | Power BI  
 - Data Cleaning
