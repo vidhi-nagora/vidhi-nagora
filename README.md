@@ -39,9 +39,6 @@ Data Analyst skilled in Excel, SQL, Python, and Power BI, with a growing underst
 ---
 [![](https://komarev.com/ghpvc/?username=vidhi-nagora&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-⭐ Check out my repositories below to see my work!
 
 <!--
 **vidhi-nagora/vidhi-nagora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
