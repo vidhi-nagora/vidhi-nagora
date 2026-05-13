@@ -1,7 +1,7 @@
 # Hi, I'm Vidhi Nagora 👋
 
 ## 💡 About Me
-I am an aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI, with a growing understanding of digital marketing. I enjoy working with data to uncover insights and support decision-making. I am continuously learning and building projects to strengthen my skills.
+Data Analyst skilled in Excel, SQL, Python, and Power BI, with a growing understanding of digital marketing. I enjoy working with data to uncover insights and support decision-making. I am continuously learning and building projects to strengthen my skills.
 
 ---
 
